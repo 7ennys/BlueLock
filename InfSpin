@@ -74,7 +74,7 @@ dragBarText.Parent = dragBar
 enableDragging(frame)
 
 -- Create Buttons for each Style
-local styles = {"King", "Chigiri", "Bachira", "Shidou", "Nagi", "Isagi", "Gagamaru", "Sae", "Rin"}
+local styles = {"Sae","Rin"}
 local yOffset = 40
 
 local desiredStyle = nil -- Default to nil, meaning no style is selected
